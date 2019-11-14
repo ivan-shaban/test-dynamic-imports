@@ -1,0 +1,10 @@
+.base {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    text-transform: uppercase;
+    background-color: green;
+    color: white;
+    user-select: none;
+}

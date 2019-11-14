@@ -1,0 +1,21 @@
+.base {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    margin: 10px 10px 0;
+}
+
+.middle {
+    height: 100%;
+}
+
+.footer {
+    margin: 0 10px 10px;
+}
